@@ -1,17 +1,20 @@
-header {
+.title {
     background-color: #008B8B;
     color: #FFFFF0;
     text-align: center;
 }
 
-main {
+.content {
     background-color: #D3D3D3;
     padding: 1em;
 }
 
 body {
+    margin: 0;
+}
+
+.webpage {
     background-image: url('record.png');
     background-color: #FFB6C1;
     background-repeat: initial;
-    margin: 0;
 }
